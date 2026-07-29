@@ -11,4 +11,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Run bot main application
-CMD ["python", "-m", "bot.main"]
+CMD ["python", "-m", "gov-job-bot.main"]
