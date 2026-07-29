@@ -46,7 +46,7 @@ class ScraperManager:
             EmploymentNewsScraper()
         ]
 
-    def run_all(() -> List[Job]:
+    def run_all(self) -> List[Job]:
         all_jobs = []
         scraper_logger.info("Executing %d scrapers concurrently...", len(self.scrapers))
 
