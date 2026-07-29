@@ -1,7 +1,3 @@
-BOT_TOKEN = "8700453614:AAFdsilRW8WeeOOwtVnYVj7rptBm8HjtLFA"
-
-CHAT_ID = "1286878337"
-
 """
 Configuration Manager
 AI Powered Government Jobs Telegram Bot
