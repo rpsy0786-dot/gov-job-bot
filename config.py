@@ -26,8 +26,8 @@ QUALIFICATIONS = [
     "B.E",
     "B.Tech",
     "M.E",
-    "M.Tech"
-    "Batchelor of technology"
+    "M.Tech",
+    "Bachelor of technology",
     "Master of technology"
 ]
 
